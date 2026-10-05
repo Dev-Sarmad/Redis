@@ -1,0 +1,19 @@
+{
+  "name": "learn-redis",
+  "version": "1.0.0",
+  "description": "Learning Redis with Node.js",
+  "main": "src/index.js",
+    "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "express" : "^4.18.3",
+    "ioredis" : "^5.4.1",
+    "mongoose": "^8.2.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
