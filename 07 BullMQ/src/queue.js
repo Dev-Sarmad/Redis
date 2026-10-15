@@ -5,5 +5,5 @@ export const connection = {
   port: 6379,
 };
 
-export const  = new Queue("emails", { connection });
+export const emailQueue = new Queue("emails", { connection });
  
