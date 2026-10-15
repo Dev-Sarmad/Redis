@@ -169,4 +169,4 @@ The environment variables apply to processes started from that PowerShell sessio
 
 Each lesson's README contains its own notes and examples. The root Compose file defines Redis and MongoDB for local development.
 
-![redis](../assets/redis1.png)
+![redis](./assets/redis1.png)
